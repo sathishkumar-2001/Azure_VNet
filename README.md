@@ -13,3 +13,7 @@ vnet gateway
 vpn gateway - connect between onprimises to azure vnet
 
 we will be using the bashton host to connect to the vm in the private subnet
+
+
+![image](https://github.com/sathishkumar-2001/Azure_VNet/assets/126504329/8f63cc84-ca5f-4d38-80ad-e16f9773e9d6)
+
