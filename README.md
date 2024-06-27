@@ -17,3 +17,5 @@ we will be using the bashton host to connect to the vm in the private subnet
 
 ![image](https://github.com/sathishkumar-2001/Azure_VNet/assets/126504329/8f63cc84-ca5f-4d38-80ad-e16f9773e9d6)
 
+
+![image](https://github.com/sathishkumar-2001/Azure_VNet/assets/126504329/4732b77a-36d6-4f46-b095-90acbacdcdc5)
